@@ -20,4 +20,13 @@ w9 = " dull"
 w10 = " boy."
 
 print w1 + w2 + w3 + w4 + w5 + w6 + w7 + w8 + w9 + w10
- 
+
+# 3.  6 * (1 - 2)
+
+# 4.  an error is generated at runtime
+
+# 5. input() seems to evaluate the input. raw_input() produces a string representation of the input.
+
+# 6. bruce = 6
+
+# 7. see madlib.py
