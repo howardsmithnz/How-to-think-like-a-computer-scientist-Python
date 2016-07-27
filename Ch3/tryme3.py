@@ -17,8 +17,13 @@ def nine_lines():
   three_lines()
 
 def clear_screen():
-  for i in range(25):
-    print
-    i += 1
+  # for i in range(25):
+  #   print
+  #   i += 1
+  nine_lines()
+  nine_lines()
+  three_lines()
+  three_lines()
+  new_line()
 
 clear_screen()
