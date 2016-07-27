@@ -4,7 +4,8 @@
 # import_test.py
 
 def cat_n_times(s, n):
+  str = ''
   for i in range(n):
-    print s
+    str += s
 
-  
+  print str
