@@ -1,4 +1,4 @@
- # How to think like a computer scientist - learn with Python
+# How to think like a computer scientist - learn with Python
 
 # Ch.4
 
@@ -13,5 +13,5 @@ def compare(x,y):
     else:
         print x, "and", y, "are equal"
 
-# 3.
+# 3. Done
 
