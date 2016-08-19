@@ -1,6 +1,4 @@
 def truth_table(expression):
-    expression = raw_input("Enter a boolean expression in two variables, p and q: ")
-
     print " p      q      %s"  % expression
     length = len( " p      q      %s"  % expression)
     print length*"="
